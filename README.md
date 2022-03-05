@@ -12,3 +12,4 @@
    ```sh
    git clone https://github.com/igaimerca/atlp_resume_challenge
    ```
+2. [Live demo at](https://igaimerca.github.io/atlp_resume_challenge/)
